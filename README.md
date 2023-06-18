@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm M.Rayyan Siddiqui</h1>
 <h3 align="center">A passionate techno kid from Pakistan.</h3>
 
+<img align="right" alt="coding_animated_GIF" width="300" src="https://media.licdn.com/dms/image/C4E12AQHhfpP2slLoXw/article-cover_image-shrink_600_2000/0/1578791251071?e=2147483647&v=beta&t=z0mDGgtn6FZAR_FAWN0lu2QP80ugvAfOnWcJ3acz7Rk" />
+
 - 🌱 I’m currently learning **HTML & CSS**
 
 - 💬 Ask me about **MS Word, Excel, Power Point & Canva.**
